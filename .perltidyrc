@@ -1,0 +1,12 @@
+################################################################################
+# Pertidy Configuration - https://perltidy.sourceforge.net/stylekey.html
+################################################################################
+-pbp    # Perl Best Practices
+-nst    # Non-standard Output
+-i=2    # Indentation
+-l=80   # Max line length
+-mbl=2  # Maximum blank lines
+-pt=2   # Parenthesis tightness
+-nsbl   # Non-opening sub braces
+-ce     # Cuddled else
+-wn     # Weld nested containers
